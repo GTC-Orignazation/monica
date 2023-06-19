@@ -45,6 +45,7 @@
 * fix weather short date ([#5901](https://github.com/monicahq/monica/issues/5901)) ([defcf43](https://github.com/monicahq/monica/commit/defcf43e0a0e6dbe20ae3a1313d5afa1b7cf6a0c))
 
 
+
 ### Features
 
 * update laravel-cloudflare ([#5904](https://github.com/monicahq/monica/issues/5904)) ([458642a](https://github.com/monicahq/monica/commit/458642a50be5fad8b0e921c1b427af045d909e93))
